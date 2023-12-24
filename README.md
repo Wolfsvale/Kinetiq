@@ -8,7 +8,7 @@ all your operations as a project manager to your employees and/or clients.
 It also allows simple registration of work times per project, task, meetings and more.
 
 <h2 style="color: orange">Kinetiq is currently work in progress and unavailable to customers.</h2>
-*Interested in following along with Kinetiq's development? Check out our [trello board](https://trello.com/b/exWMj9xj/kinetiq).*
+<i>Interested in following along with Kinetiq's development? Check out our <a href="https://trello.com/b/exWMj9xj/kinetiq" target="_blank">Trello board</a>.</i>
 
 <hr>
 Kinetiq works with a dedicated stack and guidelines to ensure code readability and understanding.
